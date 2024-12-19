@@ -1,0 +1,11 @@
+EmployeeId,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+1,John,Doe,65000.00,2015-06-15,"Software Engineer",john.doe@company.com,555-123-4567
+2,Jane,Smith,72000.00,2017-08-22,"Data Analyst",jane.smith@company.com,555-234-5678
+3,Michael,Johnson,85000.00,2013-03-12,"Project Manager",michael.johnson@company.com,555-345-6789
+4,Emily,Davis,95000.00,2019-09-18,"HR Manager",emily.davis@company.com,555-456-7890
+5,Lesely,Blend,88000.00,2016-04-24,"Business Analyst",lesely.blend@company.com,555-567-8901
+6,Jack,Lee,79000.00,2014-11-11,"Marketing Specialist",jack.lee@company.com,555-678-9012
+7,David,Moore,63000.00,2020-02-05,"Sales Associate",david.moore@company.com,555-789-0123
+8,Dianne,Connor,73000.00,2018-07-30,"Graphic Designer",dianne.connor@company.com,555-890-1234
+9,Daniel,Martinez,81000.00,2012-05-21,Accountant,daniel.martinez@company.com,555-901-2345
+10,Olivia,Garcia,92000.00,2021-10-02,"Operations Manager",olivia.garcia@company.com,555-012-3456

@@ -1,0 +1,11 @@
+ContactId,CompanyId,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+1,1,John,Doe,"456 Market St","San Francisco",CA,94105,1,john.doe@techinnovators.com,415-555-1234
+2,1,Jane,Smith,"789 Pine St","San Francisco",CA,94107,0,jane.smith@techinnovators.com,415-555-5678
+3,2,Michael,Brown,"12 Broadway","New York",NY,10001,1,michael.brown@globalsolutions.com,212-555-7890
+4,2,Emily,Davis,"34 Wall St","New York",NY,10005,0,emily.davis@globalsolutions.com,212-555-2345
+5,3,Chris,Taylor,"56 Congress Ave",Austin,TX,73301,1,chris.taylor@brightfuture.com,512-555-6789
+6,4,Anna,Wilson,"789 Forest Ln",Portland,OR,97204,1,anna.wilson@greenenergy.com,503-555-4567
+7,5,David,Moore,"1010 Digital Blvd",Seattle,WA,98101,1,david.moore@digitaledge.com,206-555-3456
+8,6,Sophia,White,"44 Tech Park",Boston,MA,02108,1,sophia.white@nextgensystems.com,617-555-9012
+9,7,Daniel,Martinez,"77 Cloud Ave",Chicago,IL,60601,1,daniel.martinez@cloudnetworks.com,312-555-5678
+10,8,Olivia,Garcia,"89 Data Blvd","Los Angeles",CA,90001,1,olivia.garcia@datastream.com,323-555-1234

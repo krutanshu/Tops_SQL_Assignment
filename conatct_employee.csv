@@ -1,0 +1,11 @@
+ContactEmployeeId,ContactId,EmployeeId,ContactDate,Description
+1,1,1,2022-01-15,"Discussed software project requirements"
+2,2,3,2022-02-10,"Meeting to finalize project plan"
+3,3,5,2022-03-05,"Reviewed data analysis results"
+4,4,7,2022-04-22,"Presented business analysis"
+5,5,2,2022-05-17,"Meeting on marketing strategy"
+6,6,4,2022-06-12,"HR policy discussion"
+7,7,6,2022-07-09,"Sales presentation for new client"
+8,6,8,2022-08-03,"Graphics design update meeting"
+9,9,10,2022-09-28,"Operations management strategy meeting"
+10,10,9,2022-10-20,"Accounting discussion on annual report"
