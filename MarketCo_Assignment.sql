@@ -80,6 +80,17 @@ AND Employeeid = (
     WHERE Firstname = 'John' AND lastname = 'Doe'
 );
 
+-- Q7 Instead of toll brothers I have taken john doe
+SELECT e.FirstName, e.LastName
+FROM contact c
+JOIN contactemployee ce ON c.ContactId = ce.ContactId
+JOIN employee e ON ce.EmployeeId = e.EmployeeId
+WHERE c.CompanyId = (
+    SELECT CompanyId 
+    FROM company 
+    WHERE CompanyName = 'Cloud Networks'
+);
+
 -- Q8 What is the significance of “%” and “_” operators in the LIKE statement? 
 -- the 	% and _ operators are wilcards in like statment. % represents multiple charecters while _ represent a singlr charecter.
 
